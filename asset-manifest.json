@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aryan29.github.io/static/css/main.7549fb0c.chunk.css",
+    "main.js": "/aryan29.github.io/static/js/main.e2afda3d.chunk.js",
+    "main.js.map": "/aryan29.github.io/static/js/main.e2afda3d.chunk.js.map",
+    "runtime-main.js": "/aryan29.github.io/static/js/runtime-main.7d5cae77.js",
+    "runtime-main.js.map": "/aryan29.github.io/static/js/runtime-main.7d5cae77.js.map",
+    "static/js/2.bc066bf4.chunk.js": "/aryan29.github.io/static/js/2.bc066bf4.chunk.js",
+    "static/js/2.bc066bf4.chunk.js.map": "/aryan29.github.io/static/js/2.bc066bf4.chunk.js.map",
+    "index.html": "/aryan29.github.io/index.html",
+    "precache-manifest.656a86198eab49bf9e26f7f073dbbb32.js": "/aryan29.github.io/precache-manifest.656a86198eab49bf9e26f7f073dbbb32.js",
+    "service-worker.js": "/aryan29.github.io/service-worker.js",
+    "static/css/main.7549fb0c.chunk.css.map": "/aryan29.github.io/static/css/main.7549fb0c.chunk.css.map",
+    "static/js/2.bc066bf4.chunk.js.LICENSE.txt": "/aryan29.github.io/static/js/2.bc066bf4.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/aryan29.github.io/static/media/5.01980763.jpg",
+    "static/media/logo.svg": "/aryan29.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d5cae77.js",
+    "static/js/2.bc066bf4.chunk.js",
+    "static/css/main.7549fb0c.chunk.css",
+    "static/js/main.e2afda3d.chunk.js"
+  ]
+}
